@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\AlgorithmCopyTree\\AlgorithmCopyTree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\AlgorithmCopyTree\\AlgorithmCopyTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\AlgorithmCopyTree\\AlgorithmCopyTree.csproj",
+        "projectName": "AlgorithmCopyTree",
+        "projectPath": "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\AlgorithmCopyTree\\AlgorithmCopyTree.csproj",
         "packagesPath": "C:\\Users\\E495\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\E495\\source\\repos\\AlgorithmCopyTree\\AlgorithmCopyTree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
