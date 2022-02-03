@@ -8,6 +8,7 @@ public class Program
     static void Main()
     {
         PrintTreeBranchWithBreadthFirstSearch();
+        //PrintTreeBranchWithDepthFirstSearch();
     }
 
     private static void PrintTreeBranchWithBreadthFirstSearch() 
@@ -49,6 +50,7 @@ public class Program
         TreeBranch treeBranch133 = new TreeBranch(133, "  Nível 133");
 
         TreeBranch treeBranch1321 = new TreeBranch(1321, "   Nível 1321");
+        TreeBranch treeBranch1322 = new TreeBranch(1321, "   Nível 1322");
 
         TreeBranch treeBranch13211 = new TreeBranch(13211, "    Nível 13211");
         TreeBranch treeBranch13212 = new TreeBranch(13212, "    Nível 13212");
@@ -59,9 +61,11 @@ public class Program
         treeBranch1321.Childs.Add(treeBranch13211);
         treeBranch1321.Childs.Add(treeBranch13212);
         treeBranch132.Childs.Add(treeBranch1321);
+        treeBranch132.Childs.Add(treeBranch1322);
         treeBranch13.Childs.Add(treeBranch131);
         treeBranch13.Childs.Add(treeBranch132);
         treeBranch13.Childs.Add(treeBranch133);
+        treeBranch1.Childs.Add(treeBranch11);
         treeBranch1.Childs.Add(treeBranch12);
         treeBranch1.Childs.Add(treeBranch13);
 
